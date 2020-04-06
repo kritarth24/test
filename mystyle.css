@@ -31,3 +31,8 @@ p
   background-color: #751947;
   text-align: center;
 }
+h1.middle
+{
+  margin-top:0px;
+  margin-bottom:0px;
+}
